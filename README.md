@@ -1,2 +1,1 @@
-# Pterodactyl-Custom-Eggs
-Customized eggs for the pterodactyl panel.
+<h1 align=center>Pterodactyl-Custom-Eggs<h1>

@@ -8,4 +8,6 @@ If you opt for this installation, you will download 4 parts of the csgo server, 
 When you start your server, it will be updated automatically (if an update exists).<br>
 In some cases, depending on your region, the alternative download may be slower, in which case use the traditional method.
 
+Furthermore, the installation script creates the file `server.cfg` automatically, and each time the server is restarted, this file is updated to the values of its respective variables.<br>
+
 also, you can choose to install the latest [SourceMod](https://www.sourcemod.net/) and [MetaMod](https://www.sourcemm.net/) automatically.
